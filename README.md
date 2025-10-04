@@ -60,13 +60,7 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-roy-chowdhury)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/adiroy2/)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/adiroy28852)  
-[![AtCoder](https://img.shields.io/badge/AtCoder-00AA00?style=flat-square&logo=atcoder&logoColor=white)](https://atcoder.jp/users/adiroy28852)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-roy-chowdhury-a248931b2/)    
 
----
-
-> “Logic builds foundations, but curiosity builds empires.”
 
 ---
