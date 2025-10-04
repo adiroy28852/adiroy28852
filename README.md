@@ -13,7 +13,7 @@
 ## 📦 Pinned Projects
 
 🔹 [RubiksCubeSolver](https://github.com/adiroy28852/RubiksCubeSolver) — C++ Rubik’s Cube solving logic & visualization  
-🔹 [AngularPortfolio](https://github.com/adiroy28852/AngularPortfolio) — Personal portfolio built using Angular  
+🔹 [AngularPortfolio](https://angular-portfolio-qeg9udi64-adiroy28852s-projects.vercel.app/) — Personal portfolio built using Angular  
 
 ---
 
@@ -22,8 +22,8 @@
 | Platform | Profile | Highlights |
 |-----------|----------|-------------|
 | 🟠 **LeetCode** | [adiroy2](https://leetcode.com/u/adiroy2/) | ~1200 problems solved, Contest Rating ≈ 2250 |
-| 🔵 **Codeforces** | [adiroy28852](https://codeforces.com/profile/adiroy28852) | Regular participant, focused on Div.2 problems |
-| 🟢 **AtCoder** | [adiroy28852](https://atcoder.jp/users/adiroy28852) | Steady performance, improving weekly |
+| 🔵 **Codeforces** | [adiroy28852](https://codeforces.com/profile/adiroy2) | Regular participant, focused on Div.2 problems |
+| 🟢 **AtCoder** | [adiroy28852](https://atcoder.jp/users/adiroy2) | Steady performance, improving weekly |
 
 ---
 
